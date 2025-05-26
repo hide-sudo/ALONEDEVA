@@ -21,9 +21,9 @@ SONG_DOWNLOAD_DURATION = int(
     getenv("SONG_DOWNLOAD_DURATION_LIMIT", "54000")
 )
 
-LOGGER_ID = int(getenv("LOGGER_ID", ""))
+LOGGER_ID = int(getenv("LOGGER_ID", "-1002419831380"))
 
-OWNER_ID = int(getenv("OWNER_ID", "7552579717"))
+OWNER_ID = int(getenv("OWNER_ID", "7538572906"))
 
 OWNER_USERNAME = getenv("OWNER_USERNAME","AloneHuVai")
 
